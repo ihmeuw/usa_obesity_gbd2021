@@ -8,6 +8,6 @@ Code repository for publication "National and state-level prevalence of overweig
 
 **publication_figures**: Code and functions used to create figures and tables used in the publication
 
-**Article**: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01548-4/fulltext
-**Publish date**: December, 07, 2024
-**Authors**: Marie Ng, Xiaochen Dai, Rebecca M Cogen
+**Article**: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01548-4/fulltext  
+**Publish date**: December, 07, 2024  
+**Authors**: Marie Ng, Xiaochen Dai, Rebecca M Cogen  
